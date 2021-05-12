@@ -1,0 +1,15 @@
+com\salguerotrees\StarDecorator.class
+com\salguerotrees\Trees.class
+com\salguerotrees\BirchTree.class
+com\salguerotrees\TreeFacade.class
+com\salguerotrees\BombsDecorator.class
+com\salguerotrees\PlasticTree.class
+com\salguerotrees\SalgueroTreesApp.class
+com\salguerotrees\PineTree.class
+com\salguerotrees\TreeDecorator.class
+com\salguerotrees\FirTree.class
+com\salguerotrees\LightsDecorator.class
+com\salguerotrees\OakTree.class
+com\salguerotrees\SlatsDecorator.class
+com\salguerotrees\TreeFactory.class
+com\salguerotrees\SnowDecorator.class
